@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1000/1000.iml" filepath="$PROJECT_DIR$/1000/1000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10950/10950.iml" filepath="$PROJECT_DIR$/10950/10950.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10951/10951.iml" filepath="$PROJECT_DIR$/10951/10951.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10952/10952.iml" filepath="$PROJECT_DIR$/10952/10952.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10953/10953.iml" filepath="$PROJECT_DIR$/10953/10953.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11021/11021.iml" filepath="$PROJECT_DIR$/11021/11021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11022/11022.iml" filepath="$PROJECT_DIR$/11022/11022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11718/11718.iml" filepath="$PROJECT_DIR$/11718/11718.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11720/11720.iml" filepath="$PROJECT_DIR$/11720/11720.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11721/11721.iml" filepath="$PROJECT_DIR$/11721/11721.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15953/15953.iml" filepath="$PROJECT_DIR$/15953/15953.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1759/1759.iml" filepath="$PROJECT_DIR$/1759/1759.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2558/2558.iml" filepath="$PROJECT_DIR$/2558/2558.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2741/2741.iml" filepath="$PROJECT_DIR$/2741/2741.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm.iml" filepath="$PROJECT_DIR$/algorithm.iml" />
+    </modules>
+  </component>
+</project>
