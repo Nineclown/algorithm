@@ -2,28 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f2ca911-6798-403d-9b53-d74b91577862" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/DP/DP.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/DP/src/A.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Graph/Graph.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Graph/src/A.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Graph/src/B.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Graph/src/C.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Graph/src/C_1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Graph/src/C_2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Graph/src/D.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Graph/src/E.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Graph/src/E_1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/baekjoon/src/K_1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/baekjoon/src/K_2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/baekjoon/src/L.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/baekjoon/src/M.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/baekjoon/src/N.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/baekjoon/src/O.java" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/K.java" afterPath="$PROJECT_DIR$/baekjoon/src/K.java" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/I_1.class" afterPath="$PROJECT_DIR$/out/production/baekjoon/I_1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/baekjoon/J.class" afterPath="$PROJECT_DIR$/out/production/baekjoon/J.class" />
+      <change beforePath="$PROJECT_DIR$/DP/DP.iml" afterPath="$PROJECT_DIR$/baekjoon Graph/baekjoon Graph.iml" />
+      <change beforePath="$PROJECT_DIR$/DP/src/A.java" afterPath="$PROJECT_DIR$/baekjoon DP/src/A.java" />
+      <change beforePath="$PROJECT_DIR$/Graph/Graph.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Graph/src/A.java" afterPath="$PROJECT_DIR$/baekjoon Graph/src/A.java" />
+      <change beforePath="$PROJECT_DIR$/Graph/src/B.java" afterPath="$PROJECT_DIR$/baekjoon Graph/src/B.java" />
+      <change beforePath="$PROJECT_DIR$/Graph/src/C.java" afterPath="$PROJECT_DIR$/baekjoon Graph/src/C.java" />
+      <change beforePath="$PROJECT_DIR$/Graph/src/C_1.java" afterPath="$PROJECT_DIR$/baekjoon Graph/src/C_1.java" />
+      <change beforePath="$PROJECT_DIR$/Graph/src/C_2.java" afterPath="$PROJECT_DIR$/baekjoon Graph/src/C_2.java" />
+      <change beforePath="$PROJECT_DIR$/Graph/src/D.java" afterPath="$PROJECT_DIR$/baekjoon Graph/src/D.java" />
+      <change beforePath="$PROJECT_DIR$/Graph/src/E.java" afterPath="$PROJECT_DIR$/baekjoon Graph/src/E.java" />
+      <change beforePath="$PROJECT_DIR$/Graph/src/E_1.java" afterPath="$PROJECT_DIR$/baekjoon Graph/src/E_1.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +27,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="E.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Graph/src/E.java">
+        <entry file="file://$PROJECT_DIR$/baekjoon Graph/src/E.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="20">
               <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
@@ -51,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/baekjoon/src/O.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding>
                 <element signature="e#60#61#0" expanded="true" />
                 <element signature="e#110#111#0" expanded="true" />
@@ -64,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/baekjoon/src/K.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
-              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -208,24 +199,7 @@
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Graph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Graph" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="baekjoon Graph" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -472,16 +446,15 @@
       <workItem from="1538550124097" duration="223000" />
       <workItem from="1538550396489" duration="9645000" />
       <workItem from="1538623079352" duration="15949000" />
-      <workItem from="1538733015087" duration="281000" />
+      <workItem from="1538733015087" duration="423000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175271000" />
+    <option name="totallyTimeSpent" value="175413000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -496,7 +469,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19602577" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19602577" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -654,7 +627,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DP/src/A.java">
+    <entry file="file://$PROJECT_DIR$/baekjoon DP/src/A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
@@ -797,7 +770,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/src/A.java">
+    <entry file="file://$PROJECT_DIR$/baekjoon Graph/src/A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="12" selection-end-column="9" />
@@ -805,14 +778,14 @@
       </provider>
     </entry>
     <entry file="file://E:/2학기/알고리즘/삼성SDS알고리즘/3일차/1708.java" />
-    <entry file="file://$PROJECT_DIR$/Graph/src/C_1.java">
+    <entry file="file://$PROJECT_DIR$/baekjoon Graph/src/C_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/src/C_2.java">
+    <entry file="file://$PROJECT_DIR$/baekjoon Graph/src/C_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
           <caret line="73" column="37" lean-forward="true" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
@@ -826,35 +799,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/src/B.java">
+    <entry file="file://$PROJECT_DIR$/baekjoon Graph/src/B.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="51" column="25" lean-forward="true" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/src/C.java">
+    <entry file="file://$PROJECT_DIR$/baekjoon Graph/src/C.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="70" column="23" lean-forward="true" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/src/E_1.java">
+    <entry file="file://$PROJECT_DIR$/baekjoon Graph/src/E_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/src/D.java">
+    <entry file="file://$PROJECT_DIR$/baekjoon Graph/src/D.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graph/src/E.java">
+    <entry file="file://$PROJECT_DIR$/baekjoon Graph/src/E.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
@@ -867,7 +840,7 @@
     <entry file="file://$PROJECT_DIR$/baekjoon/src/O.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="e#60#61#0" expanded="true" />
             <element signature="e#110#111#0" expanded="true" />
@@ -878,7 +851,7 @@
     <entry file="file://$PROJECT_DIR$/baekjoon/src/K.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
           <folding />
         </state>
       </provider>
